@@ -1,0 +1,45 @@
+For Loop Syntex:
+
+for each:
+
+var n;
+for i in n{
+	//statements
+}
+
+
+For loop in rang:
+
+for lowerValue...HigherValue{
+	//statements
+}
+
+
+For loop with half open oparetor:
+
+for lowerValue..<HigherValue{
+	//statements
+}
+
+
+conditional statements:
+
+if(){
+}
+else if(){
+}
+esle
+{
+}
+
+
+Switch:
+
+switch var{
+case 1:
+   //statement
+case 2:
+   //statement
+default:
+   //statement
+}
